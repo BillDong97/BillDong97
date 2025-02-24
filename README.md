@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BillDong97
 - 👀 I’m interested in soccer and my favorite club is Chelsea.
-- 🌱 I’m currently learning vue3.x and whistle.
+- 🌱 I’m currently learning vue3.x.
 - 💞️ I’m looking to collaborate on some vue project.
 - 📫 How to reach me: bchangedong@gmail.com
 
